@@ -1,0 +1,26 @@
+{
+    "for_user_id": "228925627",
+    "favorite_events": [
+        {
+            "created_at": "Mon Sep 03 01:24:41 +0000 2018",
+            "timestamp_ms": 1535937881233,
+            "favorited_status": {
+                "created_at": "Sun Sep 02 06:20:05 +0000 2018",
+                "id": 1036136664609898496,
+                "text": "Marathoning Harry Potter and building Hogwarts https://t.co/B31zNyN6P2",
+                "user": {
+                    "id": 228925627,
+                    "id_str": "228925627",
+                    "name": "ɥɔɐoɹ",
+                    "screen_name": "roach"
+                }
+            },
+            "user": {
+                "id": 14255640,
+                "id_str": "14255640",
+                "name": "🤖nyx Mueller",
+                "screen_name": "onyx"
+            }
+        }
+    ]
+}
