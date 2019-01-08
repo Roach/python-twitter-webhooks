@@ -1,4 +1,4 @@
-Twitter Webhook adapter for Python
+Twitter Webhooks for Python
 ===================================
 
 .. image:: https://badge.fury.io/py/twitterwebhooks.svg
