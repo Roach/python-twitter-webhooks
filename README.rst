@@ -4,7 +4,7 @@ Twitter Webhooks for Python
 .. image:: https://badge.fury.io/py/twitterwebhooks.svg
     :target: https://badge.fury.io/py/twitterwebhooks
 
-.. image:: https://img.shields.io/twitter/url/https/pypi.org/project/twitterwebhooks/.svg?style=social
+.. image:: https://img.shields.io/badge/Tweet--lightgrey.svg?logo=twitter&style=social
     :target: https://twitter.com/intent/tweet?&text=%22Checking%20out%20Python%20Twitter%20Webhooks!%20@roach%22&url=https://github.com/Roach/python-twitter-webhooks
 
 The Twitter Webhook Adapter is a Python-based solution to receive and parse events
