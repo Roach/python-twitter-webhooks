@@ -18,8 +18,6 @@ This adapter enhances and simplifies Twitter's Webhook API by incorporating usef
 
 .. _Slack's Events API Adapter for Python: https://github.com/slackapi/python-slack-events-api
 
-⚠️ This project hasn't been tested in Python 2.
-
 
 🤖  Installation
 ----------------
