@@ -48,12 +48,6 @@ If you don't have ngrok, `download it here`_.
 
 .. _download it here: https://ngrok.com
 
-
-Here's a rudimentary diagream of how ngrok allows Twitter to connect to your server
-
-.. image:: https://cloud.githubusercontent.com/assets/32463/25376866/940435fa-299d-11e7-9ee3-08d9427417f6.png
-
-
 💡  Twitter requires event requests be delivered over SSL, so you'll want to
     use the HTTPS URL provided by ngrok.
 
